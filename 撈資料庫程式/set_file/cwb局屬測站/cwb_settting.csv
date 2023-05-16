@@ -1,0 +1,12 @@
+資料庫設定,Input
+user,postgres
+passwords,1!qaz2@wsx
+host,140.134.51.64
+gssencmode,disable
+port,5432
+year_from(AD),2020
+year_to(AD),2020
+database 資料庫名稱,Weather
+database_table 資料庫 table,cwb_history_hour
+"是否產出資料 (請輸入1 (是),  0(否))",1
+預產出的時間單位 (請輸入0 (不計算)，1 (小時)， 2 (天)，3 (旬)) (時間單位只能由小單位往上累加，無法由大至小),3

@@ -1,0 +1,11 @@
+資料庫設定,Input
+起始年,1987
+結束年,2023
+database,Weather
+user,postgres
+passwords,1!qaz2@wsx
+host,140.134.51.64
+port,5432
+database_table,cwb_history_auto_hour
+gssencmode,disable
+"預產出的資料單位(請輸入1 (小時),  2 (天),  3 (旬))",3
